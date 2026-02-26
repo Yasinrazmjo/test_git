@@ -1,2 +1,12 @@
-print('hi')
-print('k')
+i = 1
+m = 0
+while i < 12:
+    for n in range(1,i):
+         while m < 12 - i:
+            print(' ',end='')
+            m += 1
+         print(n,end=' ')
+    m = 0
+    print('')
+    i += 1
+        
