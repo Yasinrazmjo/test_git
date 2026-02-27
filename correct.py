@@ -9,7 +9,6 @@ for i in range(2,10):
     counter = 0
     
 print('Good job, you found Avl number in range (0,10)')
-print('Ok')
                 
     
     
